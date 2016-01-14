@@ -1,3 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
 The folder .git is created, where all versions of project files will
 be stored.
+How can you use the staging area to make sure you have one commit per logical change?
+i can use git diff --staged to check what changes were made from my last commit.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+in cases when u r trying to do some alternate things that can go wrong
+or if u r not sure of this aproach u have to create new branch.
+How do the diagrams help you visualize the branch structure?
+A LOT
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the result is one branch which includes all comitts from 2 previous branches.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+it saves a lot of time, and when there is a conflict u can solve it by yourself to ensure that evrything will be allright. 
