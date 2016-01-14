@@ -2,3 +2,5 @@ When would you want to use a remote repository rather than keeping all your work
 I'll do this when i am working on some open source project or when i want to show or colaborate with community.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 There may be an unfinished version of your code which u dont want to show to public.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+its all was said in last part of lesson
